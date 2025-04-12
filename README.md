@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Louise
+- 👋 Hi, I’m Mikaela Louise
 - 👩‍💻 Intriguingly Exploring Programming – One Curiosity at a Time
 - 🌱 I’m currently learning Python and its framework Django
 - 📫 You can reach me on my user account  (ig- @louiivr) <3
