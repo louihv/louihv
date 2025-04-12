@@ -1,9 +1,9 @@
 # 💫 About Me:
 <br>- Hi, I’m Mikaela Louise
-<br>- 👩‍💻 Intriguingly Exploring Programming – One Curiosity at a Time
-<br>- 🌱 I’m currently learning Python and its framework Django
+<br>- Intriguingly Exploring Programming – One Curiosity at a Time
+<br>- I’m currently learning Python and its framework Django
 <br>- A 3rd Year student taking up Bachelor of Science in Information Technology and trust me this is way too complicated that I thought
-<br>- 📫 You can reach me on my user account  (ig- @louihv) <3
+<br>- You can reach me on my user account  (ig- @louihv) <3
 <br>- Currently working on a Capstone Project 
 
 
