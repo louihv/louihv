@@ -1,8 +1,8 @@
-- 👋 Hi, I’m louie
-- 👀 I’m interested in programming, tall man, and singing
-- 🌱 I’m currently learning HTML, and .CSS well apparently Java too
-- 📫 You can reach me in my users like @louiivr in Instagram <3
-- 🐈 I have a persian-russian cat named ppo ppo/ peu peu
+- 👋 Hi, I’m Louise
+- 👩‍💻 Intriguingly Exploring Programming – One Curiosity at a Time
+- 🌱 I’m currently learning Python and its framework Django
+- 📫 You can reach me on my user account  (ig- @louiivr) <3
+- 🐈 I have a Persian-Russian cat named ppo ppo/ peu peu
 - 💀 currently fed up this semester 
 
 <!---
