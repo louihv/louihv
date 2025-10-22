@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>- Hi, I’m Mikaela Louise
 <br>- Intriguingly Exploring Programming – One Curiosity at a Time
-<br>- Currently on her 4th year taking up Bachelor of Science in Information Technology, and trust me this is way too complicated that I thought.
+<br>- Currently on her 4th year taking up Bachelor of Science in Information Technology, and trust me this is way too complicated than I thought.
 <br>- You can reach me on my user account  (ig- @louihv) <3
 <br>- Currently working on a Capstone Project 
 <!-- <br>- I’m currently learning  -->
