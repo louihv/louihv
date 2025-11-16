@@ -5,7 +5,7 @@
 <br>- Intriguingly exploring programming — one curiosity at a time.
 <br>- I am currently in my fourth year pursuing a Bachelor of Science in Information Technology, and trust me, this is way more complicated than I thought.
 <br>- You can reach me on LinkedIn: Mikaela Louise Garao
-<br>- Currently working on a capstone project.
+<br>- Currently looking for internship programs.
 <!-- <br>- I’m currently learning  -->
 
 
